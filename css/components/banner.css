@@ -1,0 +1,23 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.2) 50%), url(../../images/background.jpeg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+	height: 300px;
+	}
+
+.banner h1 {
+	font-size: 50px;
+	margin-bottom: 5px;
+}
+
+.banner h2 {
+	margin-bottom: 40px;
+	font-size: 20px;
+	font-style: italic; opacity: 0.80;
+}
+
+.banner a.blue-button {
+	margin-top: 100px;
+}
